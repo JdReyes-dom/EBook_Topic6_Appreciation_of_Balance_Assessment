@@ -14,7 +14,7 @@ const QUIZ_QUESTIONS = [
     choices: {
       a: 'Rodge',
       b: 'Cloudy',
-      c: 'John Benedict Villamor',
+      c: 'Benedict',
       d: 'Charlie'
     },
     correct: 'a'
@@ -38,7 +38,7 @@ const QUIZ_QUESTIONS = [
     id: 3,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'A classmate is staying up until 1:00 AM every night to finish projects and play online matches, feeling exhausted the next day. Based on the story, what is the best advice to give them?',
+    question: 'A classmate is staying up until 2:00 AM every night to finish projects and play online matches, feeling exhausted the next day. Based on the story, what is the best advice to give them?',
     choices: {
       a: 'Play even more games to wake up.',
       b: 'Keep skipping sleep until everything is done.',
