@@ -23,11 +23,11 @@ const QUIZ_QUESTIONS = [
     id: 2,
     grade: 'Digital Values',
     subject: 'Identification',
-    question: 'Who appears at the end with a gentle smile to share the day\'s moral?',
+    question: 'Who appears with a gentle smile at the end of the story to share the day\'s moral?',
     choices: {
       a: 'Rodge',
       b: 'Cloudy',
-      c: 'John Benedict Villamor',
+      c: 'Benedict',
       d: 'Charlie'
     },
     correct: 'b'
@@ -38,7 +38,7 @@ const QUIZ_QUESTIONS = [
     id: 3,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'A classmate is staying up until 2:00 AM every night to finish projects and play online matches, feeling exhausted the next day. Based on the story, what is the best advice to give them?',
+    question: 'A classmate is staying up until 1:00 AM every night to finish projects and play online matches, feeling exhausted the next day. Based on the story, what is the best advice to give them?',
     choices: {
       a: 'Play even more games to wake up.',
       b: 'Keep skipping sleep until everything is done.',
@@ -51,7 +51,7 @@ const QUIZ_QUESTIONS = [
     id: 4,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'You have tests coming up, sports practice, and your favorite hobbies all at once. Using the moral of the story, what should you do?',
+    question: 'You have tests coming up, sports practice, and your favorite hobbies all at once. Based on what the story teaches, what would be the right thing to do?',
     choices: {
       a: 'Try to do everything at the same time without resting.',
       b: 'Organize your schedule to balance work, play, and sleep.',
@@ -109,7 +109,7 @@ const QUIZ_QUESTIONS = [
     subject: 'Analysis',
     question: 'Why does the author show Rodge stepping outside to unplug and take a breath?',
     choices: {
-      a: 'To show that stepping away from screens and taking a break helps you reset.',
+      a: 'To show that stepping away from screens and taking a break help you reset.',
       b: 'To show that Rodge wanted to play basketball alone.',
       c: 'To demonstrate that mornings are boring.',
       d: 'To prove that phones should never be used outdoors.'
@@ -133,7 +133,7 @@ const QUIZ_QUESTIONS = [
     id: 10,
     grade: 'Digital Values',
     subject: 'Analysis',
-    question: 'Compare Rodge\'s mindset at the start ("The grind never stops!") with Cloudy\'s lesson at the end. What main contrast does the author want readers to notice?',
+    question: 'What is the main difference between Rodge\'s thinking at the start and Cloudy\'s lesson at the end?',
     choices: {
       a: 'Working without rest makes you stronger, while relaxing makes you weak.',
       b: 'Trying to do everything without rest leads to burnout, while real strength comes from balance.',
